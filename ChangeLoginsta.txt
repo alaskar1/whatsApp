@@ -1,25 +1,9 @@
 {"version_code":3,"content":"
 <p>تحديث 1.30</p>
 
-<li>التحديث لنسخة الماركت 22.0.0.15.68</li>
-<li>إضافة خيارات جديدة لتعديل ثيم(الوان) الواجهة الرئيسية</li>
-<li>إضافة إمكانية التصويت</li>
-<li>يمكنك الآن حفظ/تطبيق/مسح/مشاركة الثيم الخاص بك</li>
-<li>إضافة الخيار رقم 1.2.17 لتغيير لون رسالة الإعجاب(القلب) في المحادثة</li>
-<li>إضافة الخيار رقم 2.2.11 لتغيير لون رسال الإعجاب(القلب) في المحادثات</li>
-<li>إصلاح خيارات الشفافية</li>
-<li>إصلاح تغيير الوان فقاعات الرسائل في المحادثة</li>
-<li>إصلاحات اخرى</li>
+<li>رساله دعم للموقع وليس تحديث</li>
+<li>إذا ظهرت لك هذه الرساله فا انت المميزه وتستخدم انستجرام بلس العسكر</li>
+<li>إذا احببت تفيدني ماديا اضغط على كلمه تحديث ومن ثم الضغط على الاعلان لمره واحده</li>
 
-<li> New Base Updated to 22.0.0.15.68 (Beta) </li>
-<li> Added Options to Theme Home Feeds Page (Mod 4.1 - Mod 4.5)</li>
-<li> Added Poll</li>
-<li> Added Options to Save/Load/Clear/Share Themes(GBSettings - More)</li>
-<li> Added Ability to Theme Like Color in Direct Message (DM) (1.2.17)</li>
-<li> Added Ability to Theme Like Color in Main/Chats Screen(Mod 2.2.11) </li>
-<li> Fixed Translucent Mod</li>
-<li> Fixed Bubble Theme Color</li>
-<li> Many More Fixes</li>
-
-","url":"http://www.gbmods.co/?p=1684"
+","url":"http://www.alaskar-mods.com/2018/01/130.html"
 }
