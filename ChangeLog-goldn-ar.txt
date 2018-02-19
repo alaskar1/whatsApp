@@ -1,4 +1,4 @@
-{"version_code":451199,"content":"
+{"version_code":451198,"content":"
 <p>تحديث 5.40</p>
 
 <li>غدا ان شاءالله صدور التحديث الجديد</li>
