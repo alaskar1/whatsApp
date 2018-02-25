@@ -1,4 +1,4 @@
-{"version_code":451203,"content":"
+{"version_code":451201,"content":"
 <p>تحديث 5.50</p>
 
 <li>رساله دعم للمطور بعد صدور التحديث</li>
