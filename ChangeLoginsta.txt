@@ -1,4 +1,4 @@
-{"version_code":5,"content":"
+{"version_code":3,"content":"
 <p>تحديث 1.30</p>
 
 <li>رساله دعم قبل صدور التحديث الجديد</li>
