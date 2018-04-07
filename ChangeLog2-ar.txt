@@ -1,46 +1,56 @@
 {"version_code":451203,"content":"
 <p>تحديث 3.40</p>
 
-<li>التحديث لنسخة الماركت 2.18.9</li>
-<li>(حصريا) إضافة الرد التلقائي (يمكنك إرسال رد تلقائي للرسائل الواردة عندما تكون انت مشغولا)</li>
-<li>تفعيل ميزة البحث عن عضو في معلومات المجموعة</li>
-<li>إضافة إمكانية تعديل معلومات المجموعة من قبل المشرفين فقط</li>
-<li>إضافة 7 اشكال جديدة لفقاعة المحادثة الخيار رقم 1.2.3</li>
-<li>إضافة 4 اشكال جديدة لصحين القراءة والاستلام الخيار رقم 6.1</li>
-<li>إضافة 5 ايقونات جديدة لايقونة البرنامج الرئيسية الخيار رقم 6.0</li>
-<li>إضافة 16 ايقونة جديدة لاشعارات الرسائل الخيار رقم 6.3</li>
-<li>إضافة الخيار رقم 1.2.64 لتعطيل ظهور 'مشرف المجموعة' بجانب الاسم في المجموعة</li>
-<li>إضافة الخيار رقم 1.2.65 لتغيير لون 'مشرف المجموعة' بجانب الاسم في المجموعة</li>
-<li>يمكنك إدارة مشرفي المجموعة من خلال معلومات المجموعة</li>
-<li>إصلاح إمكانية فتح/الاتصال باي محادثة مخفية من خلال (تطبيق جهات الاتصال الموجود على الجهاز)</li>
-<li>إصلاح ظهور المحادثات المخفية عند مشاركة ملف وسائط للبرنامج</li>
-<li>إصلاح إمكانية فتح اي محادثة مخفية من خلال ميزة 'إرسال رسالة لرقم غير محفوظ في جهازك'</li>
-<li>إصلاح ظهور المحادثات المخفية في الويدجت</li>
-<li>إصلاح إمكانية فتح البرنامج من الويدجت عند وضع قفل للبرنامج</li>
-<li>إصلاح إمكانية الاتصال بمحادثة مخفية من خلال المجموعة</li>
-<li>دعم اللغة الهندية </li>
+<li>التحديث لنسخة الماركت 2.18.46</li>
+<li>(حصريا) الان عندما يقوم احد ما بحذف رسالة من جهازك سيأتيك اشعار يخبرك بالرسالة التي يريد حذفها (استردادها)</li>
+<li>تفعيل ميزة وضع وصف للمجموعات</li>
+<li>(حصريا) يمكنك مشاهدة وصف اي مجموعة داخل المحادثة</li>
+<li>إعادة الخيار 6.19 لتشغيل الفيديوهات بالمشغل الخاص بك</li>
+<li>عندما يقوم احد ما بتوجيه رسالة لك في اي مجموعة ستظهر علامة @ اسفل المحادثة</li>
+<li>إعادة زر تحويل اي فيديو لصورة متحركة والعكس</li>
+<li>أضافة خيار لتعطيل اهتزاز WhatsApp باعلى شاشة المحادثات (افتح المحادثات المخفية ثم الاعدادات)</li>
+<li>إضافة خيار لتعطيل ظهور عدد الرسائل المخفية على ايقونة البرنامج (افتح المحادثات المخفية ثم الاعدادات)</li>
+<li>دعم تغيير ثيم شاشة إنشاء مجموعة جديدة - رسالة جماعية جديدة - رسالة مجدولة - المحادثات المخصصة</li>
+<li>إضافة القسم 2.8 لتغيير ثيم شاشة الرسائل المميزة بنجمة</li>
+<li>إضافة الخيار رقم 2.2.30A لتغيير حجم نص متصل الان واخر ظهور في شاشة المحادثات الرئيسية</li>
+<li>إضافة الخيار رقم 2.4.13A لتغيير حجم نص متصل الان واخر ظهور في شاشة الاسماء</li>
+<li>إضافة الخيار رقم 1.2.66 لاخفاء عرض وصف المجموعات في المحادثة</li>
+<li>إضافة الخيار رقم 1.2.67 لتغيير لون اللقب في المجموعة</li>
+<li>إصلاح الخيار 6.11 لتعطيل ظهور الإشعارات المنبثقة في اصدار اوريو 8.0</li>
+<li>إصلاح ظهور اسم المشرف بجانب الاسم في المجموعات</li>
+<li>إصلاح الخيار رقم 1.1.10 لتغيير خلفية ارفاق الوسائط</li>
+<li>إصلاح حذف الرد التلقائي</li>
+<li>إصلاح الرد التلقائي عند اختيار وقت البدء مساءً ووقت الانتهاء </li>
+<li>إصلاح فتح المحادثات المخفية من معلومات المجموعة ثم النقر على صورة المحادثة</li>
+<li>إصلاح فتح المحادثات المخفية من خلال المجموعات المشتركة</li>
 <li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.18.9</li>
-<li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
-<li> Enabled Search Participants</li>
-<li> Enabled Manage Group Admins</li>
-<li> Enabled Group Settings (Server Sided) </li>
-<li> Added 7 New Conversation Bubbles</li>
-<li> Added 4 New Ticks</li>
-<li> Added 16 New Notifying Bar Icons</li>
-<li> Added 5 New Launcher Icons </li>
-<li> Added Option to Hide Admin Caption in Group (Mod 1.2.64)</li>
-<li> Added Option to Color Admin caption in Group (Mod 1.2.65)</li>
-<li> Added Hindi Language (Indian Language) </li>
-<li> Fixed Hidden Chat opening from Phones</li>
-<li> Fixed Hidden Chat opening from Dialer</li>
-<li> Fixed Hidden Message showing in Widget</li>
-<li> Fixed Hidden Chat Opening from Widget</li>
-<li> Fixed Able to call Hidden Chat From Group</li>
-<li> Fixed Showing Hidden Chat when try to Share from Gallery or File Manager. </li>
-<li> Fixed App Opening from Widget even when Locked</li>
-<li> Fixed Crash On Some Devices</li>
+<li> New Base Updated to 2.18.46</li>
+<li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
+<li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
+<li> (Exclusively) Added Back Play Video in your Favourite Player (Mod 6.19)</li>
+<li> Enabled Group Description</li>
+<li> (Exclusive) Added Group Description in Header Like Status</li>
+<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific) </li>
+<li> Enabled Mention Button</li>
+<li> Added Option to Hide Group Description from Groups Header (Mod 1.2.66)</li>
+<li> Added Back Option to Convert Video to GIF</li>
+<li> Added Option to Edit Auto Reply Message</li>
+<li> Improved AutoReply</li>
+<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Themed New Group Page</li>
+<li> Added Themed New Broadcast Page</li>
+<li> Added Themed Custom Chats Screen</li>
+<li> Added Themed Scheduler Page</li>
+<li> Added Option to Color Unsaved Participants Name in Group (Mod 1.2.67)</li>
+<li> Added Online/Last Seen Text Size on Main Screen (Mod 2.2.30A)</li>
+<li> Added Online/Last Seen Text Size on Contacts Screen (Mod 2.4.13A)</li>
+<li> Fixed Admin Caption (Mod 1.2.64)</li>
+<li> Fixed delete AutoReply</li>
+<li> Fixed Hidden Chat counter Showing On Widget</li>
+<li> Fixed Hidden Chat Opening from Group Info</li>
+<li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
 ","url":"http://www.alaskar-mods.com/2018/04/21846.html"
