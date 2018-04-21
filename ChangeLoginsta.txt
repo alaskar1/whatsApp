@@ -1,4 +1,4 @@
-{"version_code":3,"content":"
+{"version_code":5,"content":"
 <p>تحديث 1.40</p>
 
 <li>التحديث لنسخة الماركت 37.0.0.21.97</li>
@@ -31,5 +31,5 @@
 <li> Fixed Recent Stories on Home Feed Tab</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.alaskar-mods.com/"
+","url":"http://www.alaskar-mods.com/2018/04/alaskarinstagram-150-37002197.html"
 }
