@@ -1,0 +1,51 @@
+{"version_code":451204,"content":"
+<p>تحديث 3.60</p>
+
+
+<li>التحديث لنسخة الماركت 2.18.122</li>
+<li>إمكانية السحب من اليمين إلى اليسار لإغلاق الدردشة (اضافات محمود العسكر> المزيد من الإعدادات الخيار رقم 6.22</li>
+<li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
+<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
+<li>يمكن تخصيص الرد التلقائي لمحادثات معينة او استثناء محادثات معينة</li>
+<li>إضافة الخيار رقم 2.7.9 لاختيار شكل الزر العائم كالواتس الرسمي</li>
+<li>إضافة الخيار رقم 2.1.11 لاخفاء زر انشاء دردشة جديدة من المحادثات</li>
+<li>إضافة الخيار رقم 6.21 لتعطيل ظهور تنبيه بان هناك رسائل مسترجعة(محذوفة)</li>
+<li>إضافة خيار لتعطيل الرد التلقائي في حال اخفاء صحين القراءة</li>
+<li>إضافة الخيار رقم 1.1.16 لإظهار ايقونة الفيديو في المحادثة</li>
+<li>يمكنك الان معرفة المحادثات التي قمت بتفعيل التحميل التلقائي لها.(افتح الواتساب - خيارات - المحادثات المخصصة)</li>
+<li>يمكنك الان البحث عن الثيمات من خلال اسم الثيم</li>
+<li>إصلاح الإنهيار عند تغيير صندوق الإرسال</li>
+<li>إصلاح لون الاسماء عند اضافة عضو جديد لاي مجموعة</li>
+<li>إصلاح لون فقاعات الدردشة</li>
+<li>إصلاح إخفاء اشارة التشغيل</li>
+<li>إصلاح عدم ظهور ايقونة الارفاق في محادثة الرسائل الجماعية</li>
+<li>إصلاح لون الشريط العلوي للمحادثات المخفية و المؤرشفة</li>
+<li>تحديث اللغة الايطالية والبرازيلية</li>
+<li>إصلاحات اخرى</li>
+
+<p>(Eid Edition)</p>
+<li> New Base Updated to 2.18.122</li>
+<li> Swipe from left to right to exit conversations (Mod 6.22)</li>
+<li> Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
+<li> Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
+<li> Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording) </li>
+<li> Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
+<li> Added Stock Fab (Mod 2.7.9)</li>
+<li> Added Option to Hide New Chat Icon from Header (Mod 2.1.11)</li>
+<li> Added Option for Disable Revoked Message Notification(Mod 6.21)</li>
+<li> Added Option to Disable Auto-Reply when Hide Read</li>
+<li> Added Option to Enable Video Icon in Conversation Header (Mod 1.1.16)</li>
+<li> Added Custom Media Auto-Download in Custom Chats</li>
+<li> Added Now You can Search by Name in Theme Server</li>
+<li> Updated Italian & Brazilian language</li>
+<li> Fix the collapse when you change the sending box</li>
+<li> Fixed Contacts Name Color when Add Participants</li>
+<li> Fixed Bubble Color</li>
+<li> Fixed Privacy for Blue Microphone</li>
+<li> Fixed GIF Background Color</li>
+<li> Fixed Attach Icon not Showing in Broadcast chat</li>
+<li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
+<li> Many Other Fixes</li>
+
+","url":"http://www.ahmadmods.com/2017/12/shwhatsapp.html"
+}
