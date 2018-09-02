@@ -1,4 +1,4 @@
-{"version_code":451205,"content":"
+{"version_code":451206,"content":"
 <p>تحديث 3.70</p>
 
 <li>التحديث لنسخه الماركت2.18.217</li>
