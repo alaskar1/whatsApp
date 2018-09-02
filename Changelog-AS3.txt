@@ -21,5 +21,5 @@
 <li>إصلاح خيار نسخ بيانات WhatsApp في شاشة تفعيل الرقم</li>
 <li>إصلاحات أخرى</li>
 
-","url":"http://www.alaskar-mods.com/2018/07/3-360-218122.html"
+","url":"https://www.alaskar-mods.com/2018/09/as3whatsapp-370-218217.html"
 }
