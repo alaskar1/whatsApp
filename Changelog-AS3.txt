@@ -33,5 +33,5 @@
 <li> Updated Italian and Portuguese Language</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.alaskar-mods.com/2018/10/365-218203.html"
+","url":"https://www.alaskar-mods.com/2018/10/370-218203.html"
 }
