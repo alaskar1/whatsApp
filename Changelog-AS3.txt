@@ -1,4 +1,4 @@
-{"version_code":451209,"content":"
+{"version_code":451207,"content":"
 <p>تحديث 3.70</p>
 
 <li>رساله دعم للموقع </li>
