@@ -33,6 +33,6 @@
 <li> Fixed Hidden Chats Showing in Calls Tab</li>
 <li> Fixed Square Pics</li>
 <li> Fixed Search in Themes</li>
-<li> Many Other Fixes</li>
+<li> Many Other Fixe</li>
 
 ","url":"https://www.alaskar-mods.com/2018/10/365-218203.html"
