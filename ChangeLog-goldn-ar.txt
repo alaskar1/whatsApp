@@ -1,5 +1,5 @@
 {"version_code":451231,"content":"
-<p>تحديث 5.95</p>
+<p>تحديث 3.85</p>
 
 <li>تنبيه هام جدا جدا</li>
 
@@ -10,3 +10,4 @@
 
 
 ","url":"https://www.alaskar-mods.com/2018/10/365-218203.html"
+}
