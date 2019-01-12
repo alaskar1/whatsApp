@@ -1,4 +1,4 @@
-{"version_code":5,"content":"
+{"version_code":7,"content":"
 <p>تحديث 1.70</p>
 
 <li> التحديث لنسخة الماركت 71.0.0.18.102</li>
@@ -26,5 +26,5 @@
 <li> Fixed Crash when Click on Download/Preview</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.gbmods.co/?p=1684"
+","url":"https://www.alaskar-mods.com/2019/01/170-710018102.html"
 }
