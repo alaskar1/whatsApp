@@ -1,35 +1,30 @@
 {"version_code":5,"content":"
-<p>تحديث 1.40</p>
+<p>تحديث 1.70</p>
 
-<li>التحديث لنسخة الماركت 37.0.0.21.97</li>
-<li>يمكنك الان إخفاء انك شاهدت القصص(الستوري) من اضافات محمود العسكر ثم الخصوصية</li>
-<li>إضافة الخيار رقم 7.2 لتعطيل السحب يمين/ يسار في الواجهة الرئيسية</li>
-<li>إصلاح تكبير صور البروفايل</li>
-<li>يمكنك التعليق على اي منشور بشكل سريع</li>
-<li>يمكنك إلغاء متابعة اي حساب بدون فتح البروفايل من خلال الضغط على زر الثلاث نقاط بجانب المنشور ثم إلغاء متابعة</li>
-<li>إضافة الخيار رقم 4.2.3.10 لتغيير لون إضافة تعليق... في الواجهة الرئيسية</li>
-<li>إضافة الخيار رقم 4.2.3.11 لتغيير لون خلفية إضافة تعليق... في الواجهة الرئيسية</li>
-<li>إضافة الخيار رقم 4.2.3.12 لتغيير لون نشر تعليق... في الواجهة الرئيسية</li>
-<li>إصلاح ظهور خطأ عند تحميل اي ثيم من ثيمات البرنامج</li>
-<li>إصلاح ظهور خط ابيض في شاشة التعليقات</li>
-<li>إصلاح لون الثيم عند فتح اي منشور من شاشة التنبيهات</li>
-<li>إصلاح عدم تغيير لون ايقونة تبديل الحساب في شاشة البروفايل</li>
-<li>إصلاحات اخرى</li>
+<li> التحديث لنسخة الماركت 71.0.0.18.102</li>
+<li> يمكنك الاتصال صوت وصورة</li>
+<li> يمكنك استخدام منصة IGTV للفيديوهات</li>
+<li> يمكنك طلب شارة التحقق الزرقاء لملف الشخصي</li>
+<li> يمكنك طرح الأسئلة في القصة(الستوري)</li>
+<li> يمكنك عمل منشن أو تاق في القصة(الستوري)</li>
+<li> يمكنك إضافة مقطع موسيقي في القصة (الستوري)</li>
+<li> يمكنك تمييز المحادثات في قسم الخاص</li>
+<li> تفعيل ميزة حالة النشاط (آخر ظهور) لمعرفة تواجد الاصدقاء المتصلين في البرنامج</li>
+<li> إصلاح الانهيار عند محاولة تحميل صورة او فيديو</li>
+<li> إصلاح لون الفقاعات في المحادثة عند الرد على الستوري</li>
+<li> إصلاح بعض الالوان بعد الضغط على اي منشور في قسم البحث</li>
+<li> إصلاحات أخرى</li>
 
-<li> New Base Updated to 37.0.0.21.97</li>
-<li> Added Privacy - Hide View Status (mahmoud alaskar Settings - Privacy) (Don't Show Your Name even If you View Someone's Story)</li> 
-<li> Added Option to Disable Slide Navigation (Mod 7.2)</li>
-<li> Added Add Comment from Home Screen</li>
-<li> Added Possibility to Follow/Unfollow without Open Profile (Click on 3 Dots of the Post and click Follow or Unfollow) </li>
-<li> Added Option to Color Add Comment in Home Screen (Mod 4.2.3.10)</li>
-<li> Added Option to Color Add Comment Background in Home Screen (Mod 4.2.3.11)</li>
-<li> Added Option to Color Post Comment Text in Home Screen (Mod 4.2.3.12)</li>
-<li> Fixed Profile Picture Zoom/Blur</li>
-<li> Fixed Error 150 when Downloading Themes</li>
-<li> Fixed White Line Showing on Comments Screen above Text Entry</li>
-<li> Fixed Theme Issue when Open Post from Notifications Tab</li>
-<li> Fixed Recent Stories on Home Feed Tab</li>
+<li> New Base Updated to 71.0.0.18.102</li>
+<li> Added Support for IGTV</li>
+<li> Added Video Calls</li>
+<li> You can make a chat favourite</li>
+<li> Now can Add Voice Note in Story</li>
+<li> Now can Add Tag in Story</li>
+<li> Fixed Bubble Color when Reply to Story</li>
+<li> Fixed Themes after Viewing Post in Search</li>
+<li> Fixed Crash when Click on Download/Preview</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.alaskar-mods.com/2018/07/alaskarinstagram-150-49001589.html"
+","url":"http://www.gbmods.co/?p=1684"
 }
