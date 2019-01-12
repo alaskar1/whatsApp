@@ -1,4 +1,4 @@
-{"version_code":451231,"content":"
+{"version_code":451230,"content":"
 <p>تحديث 5.95</p>
 
 <li>تنبيه هام جدا جدا</li>
