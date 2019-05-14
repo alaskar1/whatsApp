@@ -1,4 +1,4 @@
-{"version_code":451241,"content":"
+{"version_code":451239,"content":"
 <p>رساله دعم مؤقته للموقع</p>
 
 <li>احبتي واعزائي مستخدمين واتساب العسكر</li>
@@ -9,3 +9,4 @@
 
 ","url":"https://www.whatsappalaskar.com/2018/10/365-218203.html"
 }
+
