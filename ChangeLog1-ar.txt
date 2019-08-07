@@ -1,4 +1,4 @@
-{"version_code":{'ver1':'8', 'ver2':'01'},"content":"
+{"version_code":{'ver1':'8', 'ver2':'10'},"content":"
 <p>تحديث 4.10</p>
 
 <li>نسخه ضد الحظر</li>
