@@ -1,4 +1,4 @@
-{"version_code":451246,"content":"
+{"version_code":452800,"content":"
 <p>تحديث 4.20</p>
 
 <li>نسخه ضد الحظر</li>
