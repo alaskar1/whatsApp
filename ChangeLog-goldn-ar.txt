@@ -1,31 +1,15 @@
-{"version_code":452435,"content":"
-<p>تحديث 6.50</p>
+{"version_code":452437,"content":"
+<p>رساله دعم للمطور</p>
 
-<li>نسخه ضد الحظر</li>
-<li>التحديث لنسخه الماركت 2.19.150</li>
-<li>إضافه خيار قطع الانترنيت عن الواتساب في الشاشه الرئيسيه</li>
-<li>إضافة خيار لإخفاء ايقونة قطع الإنترنت عن الواتساب (إعدادات بلس-شاشة المحادثات-خيار رقم 3.4.9)</li>
-<li>اصلاح عدم ظهور ايقونة معلومات الرسالة في الشريط العلوي داخل المحادثات</li>
-<li>اصلاح عدم ظهور ايقونة الرد في الشريط العلوي داخل المحادثات</li>
-<li>اصلاح عدم ظهور ايقونة الارفاق في الشريط العلوي داخل المحادثات</li>
-<li>إضافه الصحين الزرق بعد الرد</li>
-<li>اصلاح انهيار التطبيق في بعض الاجهزة</li>
-<li>تحسين سرعه فتح التطبيق</li>
-<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
-<li>اصلاحات اخرى</li>
+<li>احبتي مستخدمين واتساب العسكر هذه رساله دعم للمطور وليس تحديث</li>
+<li>سيتوفر التحديث الجديد قريبا جدا</li>
+<li>سيتم حذف نافذه تابعني على التويتر</li>
+<li>سيتم اضافه زياده مده الحاله الى زمن يقارب ال 7دقائق</li>
+<li>والمزيد من الاضافات</li>
+<li>سيتم ايقاف هذه الرساله قريبا</li>
+<li>اعتذر على الازعاج</li>
+<li>تحياتي لك عزيزي المستخدم</li>
 
-<li>Anti-Ban</li>
-<li>Update to version 2.19.150.</li>
-<li>Add the option to disconnect the Internet from whatsapp in the main screen</li>
-<li>Add an option to hide the Internet disconnect icon from WhatsApp (Plus settings - Conversations screen - Option 3.4.9)</li>
-<li>Fix the message information icon does not appear in the top bar within conversations</li>
-<li>Fix that the reply icon does not appear in the top bar within conversations</li>
-<li>Fix the attachment icon does not appear in the top bar within conversations</li>
-<li>Add it saheen glaucoma after reply</li>
-<li>Fixed application crash on some devices</li>
-<li>Improved app opening speed</li>
-<li>Fixed an issue where the hidden message counter appeared.</li>
-<li>Other reform </li>
 
 
 ","url":"https://www.whatsappalaskar.com/2018/10/365-218203.html"
