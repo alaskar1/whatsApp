@@ -1,33 +1,9 @@
-{"version_code":452894,"content":"
+{"version_code":452896,"content":"
 <p> تحديث|Update 6.60</p>
 
-<li> التحديث لنسخة الماركت 2.19.216</li>
-<li> ضد الحظر ان شاء الله</li>
-<li> زياده مده الحاله الستوري 30دقيقه بدلا من 30 ثانيه</li>
-<li>يمكنك مشاركه الحاله الستوري على الغيسبوك</li>
-<li> اضافة خيار لاخفاء الخط الرمادي في قسم الحالة</li>
-<li> إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري)  </li>
-<li> اضافة امكانية إعادة الارسال بدون ظهور رسالة مُحولة </li>
-<li> اضافة امكانية تحميل الصورة الشخصية لاي شخص كان</li>
-<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
-<li> تحسين خيار الوضع المظلم للاعدادات</li>
-<li> إصلاح  ظهور الإشعارات المنبثقة في اصدار اوريو و الفطيرة</li>
-<li> إصلاح مشكلة التعليق في التطبيق</li>
-<li> والمزيد...</li>
-
-
-
-<li>New Base Updated to 2.19.216 (Playstore) </li>
-<li>Anti-Ban </li>
-<li>Added option to Disable "Forward" tag  </li>
-<li>Added show Toast When Anyone Views your Status/Story</li>
-<li>Added Ability to download profile image</li>
-<li>Added option to Hide grey line between Status in Story Screen</li>
-<li>Improved option Dark Theme for ALL Settings</li>
-<li>Enabled All hidden features..</li>
-<li>Fixed Disable Heads-up for Oreo & Pie Users</li>
-<li>Fixed lag issue</li>
-
+<li>رساله دعم للمطور</li>
+<li>احبتي مستخدمين واتساب العسكر هذه رساله دعم فقط</li>
+<li>الرجاء الضغط على كلمه تحديث ومن ثم الدخول الى الموقع والتصغح قليلا</li>
 
 ","url":"https://www.whatsappalaskar.com/2018/10/365-218203.html"
 }
