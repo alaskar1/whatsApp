@@ -1,9 +1,14 @@
-{"version_code":452896,"content":"
-<p> تحديث|Update 6.60</p>
+{"version_code":453133,"content":"
+<p>1.10</p>
 
-<li>رساله دعم للمطور</li>
-<li>احبتي مستخدمين واتساب العسكر هذه رساله دعم فقط</li>
-<li>الرجاء الضغط على كلمه تحديث ومن ثم الدخول الى الموقع والتصغح قليلا</li>
+
+
+<li>  </li>
+<li>تحديث جديد واتساب  اصدار 1.10 - 2.19.360</li>
+<li>  </li>
+<li>New Update WhatsApp Ultra v1.10 - 2.19.360</li>
+<li>  </li>
+
 
 ","url":"https://www.whatsappalaskar.com/2018/10/365-218203.html"
 }
