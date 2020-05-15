@@ -1,12 +1,12 @@
-{"version_code":453133,"content":"
-<p>1.10</p>
+{"version_code":453203,"content":"
+<p>1.30</p>
 
 
 
 <li>  </li>
-<li>تحديث جديد واتساب  اصدار 1.10 - 2.20.11</li>
+<li>تحديث جديد واتساب  اصدار 1.30 - 2.20.47</li>
 <li>  </li>
-<li>New Update WhatsApp v1.10 - 2.20.11</li>
+<li>New Update WhatsApp v1.30 - 2.20.47</li>
 <li>  </li>
 
 
