@@ -1,7 +1,7 @@
 {"version_code":80,"content":"
-<p>تحديث 1.80</p>
+<p>تحديث 1.90</p>
 
-<li>التحديث لنسخة الماركت  100.0.0.17.129</li>
+<li>التحديث لنسخة الماركت  150.0.0.33.120</li>
 <li>يمكنك إخفاء انك شاهدت القصص</li>
 <li>يمكنك اخفاء علامة بأنك قرأت الرسالة</li>
 <li>يمكنك اخفاء جاري الكتابة</li>
@@ -16,7 +16,7 @@
 <li>يمكنك تغير تصميم الواجهة الرئيسية للانستجرام</li>
 <li> يمكنك وضع قفل لتطبيق الانستجرام</li>
 
-<li> New Base Updated to  100.0.0.17.129</li>
+<li> New Base Updated to  150.0.0.33.120</li>
 <li> Added Support for IGTV</li>
 <li> Added Video Calls</li>
 <li> You can make a chat favourite</li>
