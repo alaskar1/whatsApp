@@ -1,31 +1,5 @@
-{"version_code":80,"content":"
-<p>تحديث 1.90</p>
-
-<li>التحديث لنسخة الماركت  150.0.0.33.120</li>
-<li>يمكنك إخفاء انك شاهدت القصص</li>
-<li>يمكنك اخفاء علامة بأنك قرأت الرسالة</li>
-<li>يمكنك اخفاء جاري الكتابة</li>
-<li>يمكنك ترجمة النصوص في التعليقات</li>
-<li>يمكنك تغير تصميم صندوق الأرسال في شاشة المحادثة</li>
-<li>يمكنك تصفح الروابط من داخل التطبيق</li>
-<li>يمكنك الغاء الضغط مزدوج للأعجاب</li>
-<li>يمكنك تكبير وتصغير الصورة</li>
-<li>يمكنك تحميل الصور و الفيديو من الستوري</li>
-<li>يمكنك تحميل الصور و الفيديو من المنشورات</li>
-<li> يمكنك تعطيل السحب يمين يسار لتنقل بين واجهة التطبيق والخاص</li>
-<li>يمكنك تغير تصميم الواجهة الرئيسية للانستجرام</li>
-<li> يمكنك وضع قفل لتطبيق الانستجرام</li>
-
-<li> New Base Updated to  150.0.0.33.120</li>
-<li> Added Support for IGTV</li>
-<li> Added Video Calls</li>
-<li> You can make a chat favourite</li>
-<li> Now can Add Voice Note in Story</li>
-<li> Now can Add Tag in Story</li>
-<li> Fixed Bubble Color when Reply to Story</li>
-<li> Fixed Themes after Viewing Post in Search</li>
-<li> Fixed Crash when Click on Download/Preview</li>
-<li> Many More Fixes</li>
-
-","url":"https://www.whatsappalaskar.com/2020/04/alaskarinst-2020.html"
+{
+	"version": "150.0.0.33.120 v1.0",
+	"changelog": "— مبني على قاعدة 150.0.0.33.120  انستقرام العسكر v1.0;\n— تحديث أساسي جديد ;\n— الميزات الجديدة;\n— تحسين الرموز;\n—تصحيح بعض الاخطاء;",
+	"link": "https://www.whatsappalaskar.com/2020/04/alaskarinst-2020.html"
 }
