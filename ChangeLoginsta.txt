@@ -1,5 +1,5 @@
 {
-	"version": "150.0.0.33.120 v1.0",
-	"changelog": "— مبني على قاعدة 150.0.0.33.120  انستقرام العسكر v1.0;\n— تحديث أساسي جديد ;\n— الميزات الجديدة;\n— تحسين الرموز;\n—تصحيح بعض الاخطاء;",
+	"version": "2.00",
+	"changelog": "— Rebase to Instagram 162.0.0.42.125;\n— Added copy biography on long tap;\n— Added copy comments;\n— Added copy post description;\n— Fixed all masks;\n— New OTA version check;\n— Fixed high CPU & fast battery usage;\n— Fixed crash when you listen a voice message before it was sent;\n— Fixed crashes if you upload video in the feed;\n— Searching for updates... alaskarinsta of Loading... when starting the application.\n",
 	"link": "https://www.whatsappalaskar.com/2020/04/alaskarinst-2020.html"
 }
