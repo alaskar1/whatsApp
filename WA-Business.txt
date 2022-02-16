@@ -1,0 +1,2 @@
+{'ver1':'2', 'ver2':'10', 'ver3':'\nExtend: Expiry Date up to 2 months\n[Fixed] Sending more than 30 media from gallery\n' , 'dli':'https://www.devmahmoud.com/2022/02/alaskar-business.html
+'}
