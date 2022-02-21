@@ -1,1 +1,32 @@
-{'num':'1', 'msgs':'\nThis app is FREE and does NOT cost any money!\nIf you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automatically.\nNo need to buy it\n'}
+[•• UYARI••]
+
+BU GÜNCELLEME BİLDİRİMİNİ GÖRMEK İSTEMİYORSAN, GÜNCELLEME DENETLEMESİNİ "AeroInsta Ayarları > Servis > Güncellemeleri devredışı bırak" SEÇENEĞİNDEN DEVREDIŞI BIRAKABİLİRSİN.
+
+
+××××××××
+AeroInsta V18.0.4 [ALPHA] Güncelleme Detayları:
+
+
+• Bazı çökme hataları düzeltildi.
+
+• Diğer küçük değişiklikler ve ayarlamalar...
+
+
+
+---------
+
+
+
+AeroInsta V18.0.3 [ALPHA] Güncelleme Detayları:
+
+
+• Mesaj bombalayıcı eklendi (AeroInsta Ayarları >> Alpha >> Mesaj bombalayıcıyı etkinleştir).
+
+• Diğer küçük iyileştirmeler ve düzeltmeler yapıldı.
+
+
+
+
+××××××××
+[•• RENKLER ••]
+- Varsayılan (Alpha sürümü için renk seçeneği eklenmeyecektir, renk seçenekleri için NORMAL sürümünü kullanın.)
