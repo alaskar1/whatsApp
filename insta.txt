@@ -1,1 +1,1 @@
-{'ver1':'2', 'ver2':'45', 'ver3':'\n[Base] 249.0.0.20.105\n\n[Fixed] Codes improve \n' , 'dli':'https://www.devmahmoud.com/2020/11/2021.html'}
+{'ver1':'2', 'ver2':'45', 'ver3':'\n[Base] 249.0.0.20.105\n\nاصدار جديد من انستقرام العسكر \n' , 'dli':'https://www.devmahmoud.com/2020/11/2021.html'}
