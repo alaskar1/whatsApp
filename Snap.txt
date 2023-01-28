@@ -10,5 +10,5 @@
    \nHide View Story
    \nHide Read Messages
    \nVideo Length Limit Increased to Unlimited (Removes the Video Time Limit restrictions when sending videos from the gallery in Chat.)",
-   "website":"https://www.snapchatpro.net"
+   "website":"https://www.devmahmoud.com/2020/11/2021.html?m=1"
 }
