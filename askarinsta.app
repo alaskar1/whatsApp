@@ -42,7 +42,7 @@
 "a.fassahov",
 "kovalevsky_one",
 "toxa70x4",
-"Aymanaskar3",
+"aymanaskar3",
 "dr.cheri",
 "adamdolphin",
 "alexandr_monis",
