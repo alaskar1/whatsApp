@@ -214,7 +214,7 @@
 "kapitan_kokao_86_rus",
 "dvcj666",
 "timsterok",
-"damir__akhmetov",
+"Daily_live",
 "mkan1vetsky",
 "dorin_calos",
 "timur_modest",
