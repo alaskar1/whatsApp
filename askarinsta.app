@@ -69,7 +69,7 @@
 "leh.nn",
 "akumaboii",
 "sergei_cebotariov",
-"captainbelov_official",
+"assem.mahgoob",
 "dru_sik",
 "tiagossa1",
 "vania_kopchuk",
