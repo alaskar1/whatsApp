@@ -1,14 +1,14 @@
 { 
    "v1":1,
-   "v2":22,
+   "v2":0,
    "v3":"
-   \nاضافة الوضع الليلي (90٪)
-   \nاضافة عرض اللقطات والقصة لوقت غير محدود
-   \nاضافة خيار التنزيل لـ Snaps
-   \nاضافة خيار تنزيل القصص
-   \nاضافة خيار التنزيل لـ Discover
-   \nاضافة خيار التنزيل لـ Spotlight
-   \nاصلاح تنزيل مقاطع الفيديو
-   \nاصلاح إشعار Gservices مزعج",
+   \nAdded Night Mode (90%)
+   \nAdded View snaps and story for unlimited time
+   \nAdded Download option for Snaps
+   \nAdded Download option for Stories
+   \nAdded Download option for Discover
+   \nAdded Download option for Spotlight
+   \nFixed Video Snaps download
+   \nFixed Annoying Gservices notification",
    "https://www.devmahmoud.com/2023/03/snapchat-alaskar-plus.html"
 }
