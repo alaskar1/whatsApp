@@ -1,7 +1,7 @@
 تحديث اجباري 
 (ضد الحظر100%ان شاءالله)
 
-تاريخ التحديث 5/3/2023
+تاريخ التحديث 09/04/2023
 
 تعديل:محمود العسكر
 
@@ -9,7 +9,7 @@
 🟡  قاعدة الواتساب: 2.23.1.76
 
 
-الجديد في الاصدار1.40
+الجديد في الاصدار1.42
  تم تحسين الحماية ضد الحظر بشكل افضل بكثير من قبل
  تفعيل خيار تعديل الرسائل المرسلة
 مزيد من إصلاحات وتحسينات أخرى 
@@ -18,7 +18,7 @@
 Mandatory update
 (Update Anti-Ban 100%)
 
-Update date 3/5/2023
+Update date 09/04/2023
 
 Edit: Mahmoud Al-Askar
 
@@ -26,7 +26,7 @@ Edit: Mahmoud Al-Askar
     WhatsApp rule: 2.23.1.76
 
 
-New in version 1.40
+New in version 1.42
  Protection against bans has been improved much better than before
  Activate the option to modify sent messages
 More fixes and other improvements
