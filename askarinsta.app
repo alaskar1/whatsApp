@@ -27,7 +27,7 @@
 "advokat",
 "vasiliy.valerievich",
 "bhparrot2",
-"Wkhdrwy",
+"moayedallafi",
 "denchik_ofigenchik",
 "dima_yaroshinskyy",
 "no_0th1ng",
