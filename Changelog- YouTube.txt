@@ -1,0 +1,7 @@
+Version 9.0. Changelog:
+
+>Base Update 19.09.37
+>Added All new features
+>Fixed Problem of hanging in some clips minutes after playing the video
+>Bugs Fixed
+>Lots of bug fixes in this update
