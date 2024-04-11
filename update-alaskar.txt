@@ -1,7 +1,7 @@
 {
   "alaskar": {
     "update_code": "3",
-    "reminder_time": "0",
+    "reminder_time": "3",
     "update_version": "v6.70",
     "com.alaskar": "https://www.devmahmoud.com/2020/09/2021.html",
     "com.alaskar1": "https://www.devmahmoud.com/2020/09/2021.html",
