@@ -1,5 +1,5 @@
 {
-  "alaskar": {
+  "Gold": {
     "update_code": "5",
     "reminder_time": "3",
     "update_version": "v7.6",
@@ -9,7 +9,7 @@
     "com.alaskar3": "https://www.devmahmoud.com/2020/09/2021.html",
     "com.alaskar4": "https://www.devmahmoud.com/2020/09/2021.html",
     "update_message": "
-<p>Update Vتحديث 6.60</p>
+<p>Update Vتحديث 7.5</p>
 <li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
 <li>تحسين زر حفظ الحالات</li>
 <li>تحسين ظهور زر الترجمة في المحادثة</li>
