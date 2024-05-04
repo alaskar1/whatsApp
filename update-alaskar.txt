@@ -9,7 +9,7 @@
     "com.alaskar3": "https://www.devmahmoud.com/2020/09/2021.html",
     "com.alaskar4": "https://www.devmahmoud.com/2020/09/2021.html",
     "update_message": "
-<p>Update Vتحديث 7.5</p>
+<p>Update Vتحديث 7.10</p>
 <li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
 <li>تحسين زر حفظ الحالات</li>
 <li>تحسين ظهور زر الترجمة في المحادثة</li>
