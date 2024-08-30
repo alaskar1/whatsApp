@@ -1,7 +1,7 @@
 {
   "ANMods": {
     "update_code": "3.10",
-    "reminder_time": "1",
+    "reminder_time": "2",
     "update_version": "V3.10",
     "com.instagram.android": "https://www.devmahmoud.com/2020/11/2021.html",
     "com.ALaskarInsta.android": "https://www.devmahmoud.com/2020/11/2021.html",
