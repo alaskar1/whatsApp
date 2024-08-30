@@ -1,1 +1,23 @@
-{'ver1':'1', 'ver2':'70'}
+{
+  "ANMods": {
+    "update_code": "3.10",
+    "reminder_time": "1",
+    "update_version": "V3.10",
+    "com.instagram.android": "https://www.devmahmoud.com/2020/11/2021.html",
+    "com.ALaskarInsta.android": "https://www.devmahmoud.com/2020/11/2021.html",
+    "update_message": "
+<p>Update Vط·ع¾ط·آ­ط·آ¯ط¸ظ¹ط·آ« 3.10</p>
+<li>ط·آ§ط¸â€‍ط·ع¾ط·آ­ط·آ¯ط¸ظ¹ط·آ« ط¸â€‍ط¸â€ ط·آ³ط·آ®ط·آ© ط·آ§ط¸â€‍ط¸â€¦ط·آ§ط·آ±ط¸ئ’ط·ع¾ 325.0.0.35.91</li>
+<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط·آ´ط¸ئ’ط¸â€‍ط·آ© ط·آ§ط¸â€‍ط·آ§ط¸â€ ط¸â€،ط¸ظ¹ط·آ§ط·آ± ط·آ¹ط¸â€ ط·آ¯ ط¸ظ¾ط·ع¾ط·آ­ ط·آ¯ط·آ±ط·آ¯ط·آ´ط·آ§ط·ع¾ ط·آ¬ط¸â€¦ط·آ§ط·آ¹ط¸ظ¹ط¸â€،</li>
+<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط¸ئ’ط·آ§ط¸â€  ط·آ²ط·آ± ط·آ§ط¸â€‍ط·آ§ط·آ±ط·آ³ط·آ§ط¸â€‍</li>
+<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط·آ´ط¸ئ’ط¸â€‍ط·آ© ط·آ¹ط¸â€ ط·آ¯ ط·ع¾ط·آ­ط¸â€¦ط¸ظ¹ط¸â€‍ ط·آ§ط¸â€‍ط¸ظ¾ط¸ظ¹ط·آ¯ط¸ظ¹ط¸ث†ط¸â€،ط·آ§ط·ع¾ ط¸ظ¹ط·آ¸ط¸â€،ط·آ± ط·آ§ط¸â€ ط¸â€،ط·آ§ ط·ط›ط¸ظ¹ط·آ± ط¸â€¦ط·آ¯ط·آ¹ط¸ث†ط¸â€¦ط¸â€،</li>
+<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ط·آ§ط·ع¾ ط·آ§ط·آ®ط·آ±ط¸â€°</li>
+
+<li>Base Update: 325.0.0.35.91</li>
+<li>Fixed Crash problem when opening group chats</li>
+<li>Fixed Location of the Send button</li>
+<li>Fixed Problem when downloading videos shows that they are not supported</li>
+<li>Other fixes</li>
+"
+    }
+}
