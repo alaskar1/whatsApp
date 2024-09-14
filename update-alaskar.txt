@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "1E",
+    "update_code": "14",
     "reminder_time": "3",
     "update_version": "v7.30",
     "com.alaskar": "https://www.devmahmoud.com/2020/09/2021.html",
