@@ -2,31 +2,19 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "0",
-    "update_version": "v7.85",
-    "com.alaskar": "https://www.devmahmoud.com/2020/09/2021.html",
-    "com.alaskar1": "https://www.devmahmoud.com/2020/09/2021.html",
-    "com.alaskar2": "https://www.devmahmoud.com/2020/09/2021.html",
-    "com.alaskar3": "https://www.devmahmoud.com/2020/09/2021.html",
-    "com.alaskar4": "https://www.devmahmoud.com/2020/09/2021.html",
+    "update_version": "v7.90",
+    "com.alaskar": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
+    "com.alaskar1": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
+    "com.alaskar2": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
+    "com.alaskar3": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
+    "com.alaskar4": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
     "update_message": "
-<p>Update Vتحديث 7.85</p>
-<li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
-<li>تحسين زر حفظ الحالات</li>
-<li>تحسين ظهور زر الترجمة في المحادثة</li>
-<li>تحسين إشعار متصل الان</li>
-<li>إصلاح شاشة ارسال الموقع</li>
-<li>إصلاح تخصيص المحادثات في حال كان الرقم مفعل على واتساب بزنس</li>
-<li>إصلاح خيار تشغيل الفيديوهات بمشغل خارجي</li>
-<li>إصلاحات اخرى</li>
+<p>Update Vطھط­ط¯ظٹط« 42</p>
+<li>ط§طµظ„ط§ط­ ظ…ط´ظƒظ„ط© ط§ظ„ط§ظ†ظ‡ظٹط§ط± ط¹ظ†ط¯ طھط³ط¬ظٹظ„ طµظˆطھ </li>
+<li>ط¥طµظ„ط§ط­ط§طھ ظˆطھط­ط³ظٹظ†ط§طھ ط£ط®ط±ظ‰ </li>
 
-<li>Added option to hide revoked story notification</li>
-<li>Improving Statues download fab</li>
-<li>Improving Translation button in chat</li>
-<li>Improving Online toast</li>
-<li>Fixed send location</li>
-<li>Fixed custom settings for businesse chats</li>
-<li>Fixed playing videos with Mx player</li>
-<li>Other fixes</li>
+<li>Fixed crash issue when recording audio</li>
+<li>Fixes and other improvements</li>
 "
     }
 }
