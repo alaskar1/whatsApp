@@ -1,7 +1,7 @@
 {
   "Gold": {
-    "update_code": "14",
-    "reminder_time": "3",
+    "update_code": "0",
+    "reminder_time": "0",
     "update_version": "v7.85",
     "com.alaskar": "https://www.devmahmoud.com/2020/09/2021.html",
     "com.alaskar1": "https://www.devmahmoud.com/2020/09/2021.html",
