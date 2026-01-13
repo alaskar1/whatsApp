@@ -1,15 +1,15 @@
 {
   "alaskar": {
-    "update_code": "3",
+    "update_code": "2",
     "reminder_time": "3",
-    "update_version": "v8.98",
+    "update_version": "v9.10",
     "com.alaskar": "https://www.devmahmoud.com/2020/09/2021.html",
     "com.alaskar1": "https://www.devmahmoud.com/2020/09/2021.html",
     "com.alaskar2": "https://www.devmahmoud.com/2020/09/2021.html",
     "com.alaskar3": "https://www.devmahmoud.com/2020/09/2021.html",
     "com.alaskar4": "https://www.devmahmoud.com/2020/09/2021.html",
     "update_message": "
-<p>Update Vتحديث 6.60</p>
+<p>Update Vتحديث 9.10</p>
 <li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
 <li>تحسين زر حفظ الحالات</li>
 <li>تحسين ظهور زر الترجمة في المحادثة</li>
