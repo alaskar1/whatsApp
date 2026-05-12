@@ -2,12 +2,12 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "0",
-    "update_version": "v7.90",
-    "com.alaskar": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
-    "com.alaskar1": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
-    "com.alaskar2": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
-    "com.alaskar3": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
-    "com.alaskar4": "https://www.devmahmoud.com/2020/10/2021-845-whatsapp-gold.html",
+    "update_version": "v14",
+    "com.alaskar": "https://www.devmahmoud.com/2020/09/2021.html",
+    "com.alaskar1": "https://www.devmahmoud.com/2020/09/2021.html",
+    "com.alaskar2": "https://www.devmahmoud.com/2020/09/2021.html",
+    "com.alaskar3": "https://www.devmahmoud.com/2020/09/2021.html",
+    "com.alaskar4": "https://www.devmahmoud.com/2020/09/2021.html",
     "update_message": "
 <p>Update Vطھط­ط¯ظٹط« 42</p>
 <li>ط§طµظ„ط§ط­ ظ…ط´ظƒظ„ط© ط§ظ„ط§ظ†ظ‡ظٹط§ط± ط¹ظ†ط¯ طھط³ط¬ظٹظ„ طµظˆطھ </li>
