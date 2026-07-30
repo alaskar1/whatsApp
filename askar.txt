@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>نتائج الثانوية العامة 2026 | وزارة التربية والتعليم - سوريا</title>
+  <meta name="description" content="استعلم عن نتائج امتحانات الشهادة الثانوية العامة في الجمهورية العربية السورية لعام 2026 - الفرعين العلمي والأدبي">
+  <meta name="keywords" content="نتائج الثانوية العامة سوريا 2026, نتائج البكالوريا, وزارة التربية السورية, نتائج الامتحانات, الشهادة الثانوية">
+  <meta property="og:title" content="نتائج الثانوية العامة 2026 | وزارة التربية والتعليم">
+  <meta property="og:description" content="استعلم عن نتائج امتحانات الشهادة الثانوية العامة في سوريا لعام 2026">
+  <meta property="og:image" content="https://moed.gov.sy/images/logo.svg">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ar_SY">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="https://moed.gov.sy/images/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #1a7a3a;
+      --primary-dark: #145e2d;
+      --primary-light: #e8f5ec;
+      --primary-lighter: #f0faf3;
+      --accent: #c8102e;
+      --gold: #d4a843;
+      --text: #1e293b;
+      --text-secondary: #475569;
+      --text-muted: #94a3b8;
+      --bg: #f8fafb;
+      --white: #ffffff;
+      --border: #e2e8f0;
+      --shadow: 0 1px 3px rgba(0,0,0,0.08);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+      --shadow-lg: 0 10px 30px rgba(0,0,0,0.12);
+      --radius: 12px;
+      --radius-lg: 16px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Tajawal', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      direction: rtl;
+      line-height: 1.7;
+    }
+
+    /* === Header === */
+    .header {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      padding: 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 12px rgba(26,122,58,0.3);
+    }
+
+    .header-top {
+      background: rgba(0,0,0,0.15);
+      padding: 6px 0;
+      font-size: 12px;
+    }
+
+    .header-top .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .header-top a {
+      color: rgba(255,255,255,0.85);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .header-top a:hover {
+      color: white;
+    }
+
+    .header-main {
+      padding: 12px 0;
+    }
+
+    .header-main .container {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .logo-section {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .logo-img {
+      width: 52px;
+      height: 52px;
+      background: white;
+      border-radius: 50%;
+      padding: 4px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+
+    .logo-text h1 {
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.3;
+    }
+
+    .logo-text p {
+      font-size: 12px;
+      opacity: 0.85;
+      font-weight: 400;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    /* === Hero Banner === */
+    .hero {
+      background: linear-gradient(160deg, rgba(13,90,40,0.75) 0%, rgba(26,122,58,0.7) 50%, rgba(13,90,40,0.8) 100%),
+                  url('hero-banner.png') center/cover no-repeat;
+      padding: 48px 0 56px;
+      text-align: center;
+      color: white;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") repeat;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,0.15);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255,255,255,0.2);
+      padding: 8px 20px;
+      border-radius: 50px;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+
+    .hero-badge .pulse {
+      width: 8px;
+      height: 8px;
+      background: #4ade80;
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.5); }
+    }
+
+    .hero h2 {
+      font-size: 32px;
+      font-weight: 900;
+      margin-bottom: 12px;
+      line-height: 1.3;
+    }
+
+    .hero p {
+      font-size: 16px;
+      opacity: 0.9;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+
+    .flag-line {
+      display: flex;
+      height: 4px;
+      width: 100%;
+    }
+
+    .flag-line span:nth-child(1) { flex: 1; background: #007a3d; }
+    .flag-line span:nth-child(2) { flex: 1; background: white; }
+    .flag-line span:nth-child(3) { flex: 1; background: #000; }
+
+    /* === Search Section === */
+    .search-section {
+      margin-top: -36px;
+      padding: 0 20px 40px;
+      position: relative;
+      z-index: 10;
+    }
+
+    .search-card {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-lg);
+      padding: 32px;
+      max-width: 640px;
+      margin: 0 auto;
+      border: 1px solid var(--border);
+    }
+
+    .search-card h3 {
+      font-size: 20px;
+      font-weight: 800;
+      margin-bottom: 4px;
+      color: var(--primary);
+    }
+
+    .search-card .subtitle {
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 16px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 6px;
+      color: var(--text);
+    }
+
+    .form-group input,
+    .form-group select {
+      width: 100%;
+      padding: 12px 16px;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      font-size: 16px;
+      font-family: inherit;
+      background: var(--bg);
+      color: var(--text);
+      transition: all 0.2s;
+      direction: rtl;
+    }
+
+    .form-group input:focus,
+    .form-group select:focus {
+      outline: none;
+      border-color: var(--primary);
+      background: white;
+      box-shadow: 0 0 0 3px rgba(26,122,58,0.1);
+    }
+
+    .form-group input::placeholder {
+      color: var(--text-muted);
+    }
+
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .btn-search {
+      width: 100%;
+      padding: 14px;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 17px;
+      font-weight: 800;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.3s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 8px;
+    }
+
+    .btn-search:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 6px 20px rgba(26,122,58,0.3);
+    }
+
+    .btn-search:active {
+      transform: translateY(0);
+    }
+
+    .btn-search:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .btn-search svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    /* === Status Messages === */
+    .status-banner {
+      max-width: 640px;
+      margin: 20px auto 0;
+      padding: 16px 20px;
+      border-radius: var(--radius);
+      display: none;
+      align-items: flex-start;
+      gap: 12px;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .status-banner.show {
+      display: flex;
+    }
+
+    .status-banner.info {
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      color: #1e40af;
+    }
+
+    .status-banner.success {
+      background: var(--primary-light);
+      border: 1px solid #a7d9b7;
+      color: var(--primary-dark);
+    }
+
+    .status-banner.error {
+      background: #fef2f2;
+      border: 1px solid #fecaca;
+      color: #991b1b;
+    }
+
+    .status-banner.warning {
+      background: #fffbeb;
+      border: 1px solid #fde68a;
+      color: #92400e;
+    }
+
+    .status-banner svg {
+      width: 22px;
+      height: 22px;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    /* === Results Card === */
+    .results-section {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 0 20px 40px;
+      display: none;
+    }
+
+    .results-section.show {
+      display: block;
+    }
+
+    .result-card {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-lg);
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+
+    .result-header {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      padding: 20px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .result-header h3 {
+      font-size: 18px;
+      font-weight: 800;
+    }
+
+    .result-status {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 16px;
+      border-radius: 50px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .result-status.pass {
+      background: rgba(74,222,128,0.2);
+      color: #dcfce7;
+    }
+
+    .result-status.fail {
+      background: rgba(248,113,113,0.2);
+      color: #fee2e2;
+    }
+
+    .result-body {
+      padding: 0;
+    }
+
+    .result-student-info {
+      padding: 24px 28px;
+      border-bottom: 1px solid var(--border);
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .info-item {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .info-item .label {
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .info-item .value {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .result-grades {
+      padding: 0;
+    }
+
+    .grade-row {
+      display: grid;
+      grid-template-columns: 1fr 80px 80px;
+      padding: 12px 28px;
+      border-bottom: 1px solid #f1f5f9;
+      align-items: center;
+      font-size: 14px;
+      transition: background 0.15s;
+    }
+
+    .grade-row:hover {
+      background: var(--primary-lighter);
+    }
+
+    .grade-row.header {
+      background: #f8fafc;
+      font-weight: 700;
+      color: var(--text-secondary);
+      font-size: 13px;
+    }
+
+    .grade-row .subject {
+      font-weight: 600;
+    }
+
+    .grade-row .grade {
+      text-align: center;
+      font-weight: 700;
+    }
+
+    .grade-row .max {
+      text-align: center;
+      color: var(--text-muted);
+    }
+
+    .result-total {
+      padding: 24px 28px;
+      background: linear-gradient(135deg, var(--primary-lighter), #fff);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .total-label {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .total-score {
+      font-size: 32px;
+      font-weight: 900;
+      color: var(--primary);
+    }
+
+    .total-score span {
+      font-size: 16px;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .result-actions {
+      padding: 20px 28px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      gap: 12px;
+    }
+
+    .btn-print {
+      flex: 1;
+      padding: 12px;
+      background: var(--white);
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      font-family: inherit;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: all 0.2s;
+    }
+
+    .btn-print:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      background: var(--primary-lighter);
+    }
+
+    /* === Spinner === */
+    .spinner {
+      width: 24px;
+      height: 24px;
+      border: 3px solid rgba(255,255,255,0.3);
+      border-top-color: white;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* === Info Section === */
+    .info-section {
+      padding: 40px 0;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .info-card {
+      background: var(--white);
+      border-radius: var(--radius);
+      padding: 24px;
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+      transition: all 0.2s;
+    }
+
+    .info-card:hover {
+      box-shadow: var(--shadow-md);
+      border-color: #cbd5e1;
+    }
+
+    .info-card .icon {
+      width: 44px;
+      height: 44px;
+      background: var(--primary-light);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 16px;
+      font-size: 22px;
+    }
+
+    .info-card h4 {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: var(--text);
+    }
+
+    .info-card p {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.7;
+    }
+
+    /* === Footer === */
+    .footer {
+      background: #1e293b;
+      color: #94a3b8;
+      padding: 24px 0;
+      text-align: center;
+      font-size: 13px;
+    }
+
+    .footer a {
+      color: #60a5fa;
+      text-decoration: none;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
+    /* === Ticker === */
+    .news-ticker {
+      background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+      color: white;
+      padding: 12px 0;
+      font-size: 16px;
+      font-weight: 700;
+      display: none;
+      position: relative;
+      z-index: 100;
+      box-shadow: 0 4px 15px rgba(59, 130, 246, 0.4);
+      border-bottom: 3px solid #fbbf24;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    .news-ticker marquee {
+      display: block;
+      width: 100%;
+    }
+
+    /* === Waiting state === */
+    .waiting-state {
+      max-width: 640px;
+      margin: 30px auto 0;
+      text-align: center;
+      padding: 40px 20px;
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      border: 2px dashed var(--border);
+      display: none;
+    }
+
+    /* === Stats Bar === */
+    .stats-bar {
+      max-width: 640px;
+      margin: 20px auto 0;
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+    }
+    .stat-item {
+      background: var(--white);
+      padding: 12px 20px;
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text);
+      flex: 1;
+      justify-content: center;
+      border: 1px solid var(--border);
+    }
+    .stat-item .icon { font-size: 18px; }
+    .stat-item .pulse-dot {
+      width: 10px;
+      height: 10px;
+      background: #10b981;
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+    @media (max-width: 480px) {
+      .stats-bar { flex-direction: column; gap: 10px; }
+    }
+
+
+    .waiting-state.show {
+      display: block;
+    }
+
+    .waiting-state .emoji {
+      font-size: 56px;
+      margin-bottom: 16px;
+    }
+
+    .waiting-state h3 {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .waiting-state p {
+      font-size: 14px;
+      color: var(--text-secondary);
+      max-width: 400px;
+      margin: 0 auto;
+      line-height: 1.8;
+    }
+
+    .countdown-timer {
+      margin-top: 20px;
+      display: inline-flex;
+      gap: 12px;
+    }
+
+    .countdown-item {
+      background: var(--primary-light);
+      padding: 8px 14px;
+      border-radius: 10px;
+      text-align: center;
+      min-width: 60px;
+    }
+
+    .countdown-item .num {
+      font-size: 24px;
+      font-weight: 900;
+      color: var(--primary);
+      display: block;
+    }
+
+    .countdown-item .unit {
+      font-size: 11px;
+      color: var(--text-secondary);
+    }
+
+    /* === Responsive === */
+    @media (max-width: 640px) {
+      .hero h2 { font-size: 24px; }
+      .hero p { font-size: 14px; }
+      .search-card { padding: 24px 20px; }
+      .form-row { grid-template-columns: 1fr; }
+      .result-student-info { grid-template-columns: 1fr; }
+      .result-header { flex-direction: column; gap: 12px; text-align: center; }
+      .result-actions { flex-direction: column; }
+      .grade-row { grid-template-columns: 1fr 60px 60px; padding: 12px 16px; font-size: 13px; }
+      .result-student-info { padding: 20px 16px; }
+      .result-total { padding: 20px 16px; }
+      .logo-text h1 { font-size: 15px; }
+      .header-top { display: none; }
+    }
+
+    @media print {
+      .header, .hero, .search-section, .info-section, .footer, .result-actions, .flag-line { display: none !important; }
+      .results-section { padding: 0; }
+      .result-card { box-shadow: none; border: 1px solid #ccc; }
+      body { background: white; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- News Ticker -->
+  <div class="news-ticker" id="newsTicker">
+    <marquee behavior="alternate" scrollamount="6" id="tickerMarquee">
+      <span id="tickerContent" style="display:inline-flex; align-items:center; gap:8px;"></span>
+    </marquee>
+  </div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-top">
+      <div class="container">
+        <span>الجمهورية العربية السورية • وزارة التربية والتعليم</span>
+        <a href="https://moed.gov.sy" target="_blank" rel="noopener">العودة للموقع الرسمي ←</a>
+      </div>
+    </div>
+    <div class="header-main">
+      <div class="container">
+        <div class="logo-section">
+          <img src="https://moed.gov.sy/images/logo.svg" alt="شعار وزارة التربية والتعليم" class="logo-img" onerror="this.style.display='none'">
+          <div class="logo-text">
+            <h1>وزارة التربية والتعليم</h1>
+            <p>بوابة نتائج الامتحانات</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="flag-line">
+    <span></span><span></span><span></span>
+  </div>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content container">
+      <div class="hero-badge">
+        <span class="pulse"></span>
+        الدورة الامتحانية 2026
+      </div>
+      <h2>نتائج الشهادة الثانوية (بكافة فروعها)</h2>
+      <p>استعلم عن نتيجتك في امتحانات الشهادة الثانوية (العلمي، الأدبي، المهني، والشرعي)</p>
+    </div>
+  </section>
+
+  <!-- Search -->
+  <section class="search-section">
+    <div class="search-card">
+      <div class="cert-tabs" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 25px;">
+        <a href="index.html" class="cert-tab active" style="padding: 12px 24px; background: var(--primary); color: white; border-radius: 8px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 12px rgba(43,108,176,0.3);">البكالوريا (جميع الفروع)</a>
+        <a href="tasie.html" class="cert-tab" style="padding: 12px 24px; background: #f8fafc; color: var(--text); border-radius: 8px; text-decoration: none; font-weight: bold; border: 1px solid #e2e8f0; transition: all 0.3s;">التاسع (أساسي/شرعي)</a>
+      </div>
+
+      <h3>🔍 البحث عن النتيجة</h3>
+      <p class="subtitle">أدخل رقم الاكتتاب أو الاسم الثلاثي للاستعلام عن نتيجتك</p>
+
+      <form id="searchForm" onsubmit="handleSearch(event)">
+        <div class="form-group">
+          <label for="subNumber">رقم الاكتتاب</label>
+          <input type="text" id="subNumber" placeholder="مثال: 123456" autocomplete="off" inputmode="numeric">
+        </div>
+
+        <div class="form-group">
+          <label for="studentName">أو الاسم الثلاثي</label>
+          <input type="text" id="studentName" placeholder="الاسم الأول اسم الأب اسم العائلة">
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="branch">الفرع</label>
+            <select id="branch">
+              <option value="">اختر الفرع</option>
+              <option value="sci">العلمي</option>
+              <option value="lit">الأدبي</option>
+              <option value="sharia">الشرعية</option>
+              <option value="vocational">المهنية (صناعي/تجاري/نسوي)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="province">المحافظة</label>
+            <select id="province">
+              <option value="">اختر المحافظة</option>
+              <option value="damascus">دمشق</option>
+              <option value="rif-dimashq">ريف دمشق</option>
+              <option value="aleppo">حلب</option>
+              <option value="homs">حمص</option>
+              <option value="hama">حماة</option>
+              <option value="latakia">اللاذقية</option>
+              <option value="tartus">طرطوس</option>
+              <option value="deir-ez-zor">دير الزور</option>
+              <option value="hasaka">الحسكة</option>
+              <option value="raqqa">الرقة</option>
+              <option value="idlib">إدلب</option>
+              <option value="daraa">درعا</option>
+              <option value="suwayda">السويداء</option>
+              <option value="quneitra">القنيطرة</option>
+            </select>
+          </div>
+        </div>
+
+        <button type="submit" class="btn-search" id="btnSearch">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          عرض النتيجة
+        </button>
+      </form>
+      
+      <!-- Telegram Subscription Area -->
+      <div id="telegramSubArea" style="display: none; margin-top: 25px; padding: 20px; background: rgba(59, 130, 246, 0.05); border-radius: 12px; border: 2px dashed rgba(59, 130, 246, 0.3); text-align: center;">
+        <h4 style="margin: 0 0 10px 0; color: #0088cc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 2L11 13"/><path d="M22 2L15 22L11 13L2 9L22 2z"/></svg>
+          خدمة الإشعارات المجانية
+        </h4>
+        <p style="margin: 0 0 15px 0; font-size: 14px; color: var(--text);">اشترك مجاناً عبر تيلغرام لتصلك نتيجتك فور صدورها!</p>
+        <a id="telegramSubBtn" href="#" target="_blank" class="btn-search" style="display: inline-flex; background: #0088cc; width: 100%; justify-content: center; text-decoration: none;">
+          <span>الاشتراك عبر البوت 🚀</span>
+        </a>
+      </div>
+      <!-- End Telegram Area -->
+
+    </div>
+
+    <!-- Status Messages -->
+    <div class="status-banner" id="statusBanner">
+      <svg id="statusIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      <div id="statusText"></div>
+    </div>
+
+    <!-- Waiting State (before results are released) -->
+    <div class="waiting-state show" id="waitingState">
+      <div class="emoji">⏳</div>
+      <h3>النتائج لم تصدر بعد</h3>
+      <p>
+        يتم حالياً تصحيح وتدقيق أوراق الإجابة. سيتم تفعيل خدمة الاستعلام فور صدور النتائج رسمياً من وزارة التربية والتعليم.
+      </p>
+      <p style="margin-top: 12px; font-weight: 700; color: var(--primary);">
+        تابع أخبار الوزارة على الموقع الرسمي
+        <a href="https://moed.gov.sy" target="_blank" style="color: var(--primary); text-decoration: underline;">moed.gov.sy</a>
+      </p>
+    </div>
+    
+    <!-- Stats Bar -->
+    <div class="stats-bar" id="statsBar">
+      <div class="stat-item">
+        <div class="pulse-dot"></div>
+        <span>المتواجدون الآن: </span>
+        <span id="activeUsers" style="margin-right: 4px; color: var(--primary)">...</span>
+      </div>
+      <div class="stat-item">
+        <div class="icon">🌍</div>
+        <span>زوار من: </span>
+        <span id="visitorFlags" style="margin-right: 4px; letter-spacing: 2px;">...</span>
+      </div>
+      <div class="stat-item">
+        <div class="icon">📊</div>
+        <span>الزيارات: </span>
+        <span id="totalVisits" style="margin-right: 4px; color: var(--primary)">...</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Results (hidden until search) -->
+  <section class="results-section" id="resultsSection">
+    <div class="result-card">
+      <div class="result-header">
+        <h3 id="resultTitle">نتيجة الطالب</h3>
+        <div class="result-status pass" id="resultStatus">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg>
+          <span id="resultStatusText">ناجح</span>
+        </div>
+      </div>
+
+      <div class="result-body">
+        <div class="result-student-info" id="studentInfo">
+          <!-- Filled dynamically -->
+        </div>
+
+        <div class="result-grades">
+          <div class="grade-row header">
+            <span>المادة</span>
+            <span class="grade">العلامة</span>
+            <span class="max">الكبرى</span>
+          </div>
+          <div id="gradesBody">
+            <!-- Filled dynamically -->
+          </div>
+        </div>
+
+        <div class="result-total">
+          <span class="total-label">المجموع الكلي</span>
+          <span class="total-score" id="totalScore">-- <span>/ --</span></span>
+        </div>
+      </div>
+
+      <div class="result-actions">
+        <button class="btn-print" onclick="window.print()">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
+          طباعة النتيجة
+        </button>
+        <button class="btn-print" onclick="shareResult()">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+          مشاركة
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Info Cards -->
+  <section class="info-section">
+    <div class="container">
+      <div class="info-grid">
+        <div class="info-card">
+          <div class="icon">📋</div>
+          <h4>كيفية الاستعلام</h4>
+          <p>أدخل رقم الاكتتاب الخاص بك أو اسمك الثلاثي، ثم اختر الفرع والمحافظة. اضغط "عرض النتيجة" لرؤية علاماتك التفصيلية.</p>
+        </div>
+        <div class="info-card">
+          <div class="icon">🔒</div>
+          <h4>خصوصية البيانات</h4>
+          <p>هذه الصفحة مرتبطة بقاعدة بيانات وزارة التربية والتعليم. لا يتم تخزين أي بيانات شخصية أو نتائج على هذا الخادم.</p>
+        </div>
+        <div class="info-card">
+          <div class="icon">⚡</div>
+          <h4>خادم مساعد</h4>
+          <p>تعمل هذه الصفحة كخادم مساعد لتخفيف الضغط على الموقع الرسمي لوزارة التربية. النتائج رسمية ومطابقة للموقع الأصلي.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="https://moed.gov.sy" target="_blank">الموقع الرسمي للوزارة</a>
+        <a href="https://moed.gov.sy/services" target="_blank">الخدمات الإلكترونية</a>
+      </div>
+      <p>© 2026 وزارة التربية والتعليم • الجمهورية العربية السورية</p>
+      <p style="margin-top: 4px; font-size: 11px; opacity: 0.6;">خادم مساعد لتخفيف الحمل عن الموقع الرسمي</p>
+      <p style="margin-top: 12px; font-size: 14px; font-weight: bold; color: #a0aec0;">تطوير وتصميم: <span style="color: white;">فادي الحلواني - الحسكة</span> 🧑‍💻</p>
+    </div>
+  </footer>
+
+  <script>
+    // ============================================================
+    // CONFIGURATION — Loaded dynamically from admin panel (KV)
+    // ============================================================
+    let RESULTS_RELEASED = false;
+    let CONFIG = {};
+
+    // ============================================================
+    // Load config from API on page load
+    // ============================================================
+    async function init() {
+      const form = document.getElementById('searchForm');
+      const waiting = document.getElementById('waitingState');
+      const btn = document.getElementById('btnSearch');
+
+      try {
+        const resp = await fetch('/api/config');
+        CONFIG = await resp.json();
+        RESULTS_RELEASED = CONFIG.resultsReleased || false;
+
+        // Show announcement banner if set
+        if (CONFIG.announcement) {
+          const banner = document.createElement('div');
+          banner.className = 'status-banner success show';
+          banner.style.cssText = 'max-width:700px;margin:16px auto;display:flex;align-items:center;gap:10px;padding:14px 20px;';
+          banner.innerHTML = '<span style="font-size:20px">📢</span><span>' + CONFIG.announcement + '</span>';
+          const section = document.querySelector('.search-section');
+          if (section) section.prepend(banner);
+        }
+
+        // Show ticker if set
+        if (CONFIG.showTicker && CONFIG.tickerText) {
+          const ticker = document.getElementById('newsTicker');
+          const tickerContent = document.getElementById('tickerContent');
+          tickerContent.innerHTML = '<span style="font-size:18px;animation:pulse 1s infinite">🚨</span> ' + CONFIG.tickerText;
+          ticker.style.display = 'block';
+        }
+
+        // Telegram Subscription UI
+        if (CONFIG.telegramBotUsername) {
+          const tgArea = document.getElementById('telegramSubArea');
+          const tgBtn = document.getElementById('telegramSubBtn');
+          if (tgArea) tgArea.style.display = 'block';
+          
+          const subInput = document.getElementById('subNumber');
+          const branchInput = document.getElementById('branch');
+          const provinceInput = document.getElementById('province');
+          
+          if (subInput && tgBtn) {
+            const updateTgLink = () => {
+              const num = subInput.value.trim();
+              const branch = branchInput ? branchInput.value : '';
+              const province = provinceInput ? provinceInput.value : '';
+              
+              if (num && branch && province) {
+                // Encode as: thanawiya_branch_province_number
+                tgBtn.href = `https://t.me/${CONFIG.telegramBotUsername}?start=thanawiya_${branch}_${province}_${num}`;
+              } else if (num) {
+                // Fallback
+                tgBtn.href = `https://t.me/${CONFIG.telegramBotUsername}?start=${num}`;
+              } else {
+                tgBtn.href = `https://t.me/${CONFIG.telegramBotUsername}`;
+              }
+            };
+            subInput.addEventListener('input', updateTgLink);
+            if (branchInput) branchInput.addEventListener('change', updateTgLink);
+            if (provinceInput) provinceInput.addEventListener('change', updateTgLink);
+            updateTgLink();
+          }
+        }
+      } catch (e) {
+        console.warn('Could not load config, using defaults');
+      }
+
+      if (!RESULTS_RELEASED) {
+        btn.disabled = true;
+        btn.innerHTML = '⏳ النتائج لم تصدر بعد';
+        waiting.classList.add('show');
+      } else {
+        waiting.classList.remove('show');
+        btn.disabled = false;
+      }
+
+      // Load stats
+      const updateStatsUI = (statsData) => {
+        if (!statsData.success) return;
+        document.getElementById('activeUsers').textContent = statsData.active;
+        document.getElementById('totalVisits').textContent = statsData.total.toLocaleString();
+        
+        if (statsData.countries) {
+          const getFlag = (code) => {
+            if (code === 'Unknown') return '🌐';
+            return code.toUpperCase().replace(/./g, char => String.fromCodePoint(char.charCodeAt(0) + 127397));
+          };
+          const topFlags = Object.entries(statsData.countries)
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 4) // Show top 4 countries
+            .map(c => getFlag(c[0]))
+            .join(' ');
+          document.getElementById('visitorFlags').textContent = topFlags || '🌐';
+        }
+      };
+
+      try {
+        await fetch('/api/stats', { method: 'POST' }); // Register visit
+        const statsResp = await fetch('/api/stats');
+        updateStatsUI(await statsResp.json());
+      } catch (e) {
+        console.warn('Could not load stats');
+      }
+
+      // Update stats periodically
+      setInterval(async () => {
+        try {
+          const statsResp = await fetch('/api/stats');
+          updateStatsUI(await statsResp.json());
+        } catch (e) {}
+      }, 30000);
+    }
+
+    // ============================================================
+    // Handle search
+    // ============================================================
+    async function handleSearch(e) {
+      e.preventDefault();
+
+      if (!RESULTS_RELEASED) {
+        showStatus('warning', 'النتائج لم تصدر بعد. يُرجى المتابعة على الموقع الرسمي لوزارة التربية والتعليم.');
+        return;
+      }
+
+      const subNumber = document.getElementById('subNumber').value.trim();
+      const studentName = document.getElementById('studentName').value.trim();
+      const branch = document.getElementById('branch').value;
+      const province = document.getElementById('province').value;
+
+      if (!subNumber && !studentName) {
+        showStatus('error', 'يُرجى إدخال رقم الاكتتاب أو الاسم الثلاثي.');
+        return;
+      }
+
+      if (!branch) {
+        showStatus('error', 'يُرجى اختيار الفرع (علمي / أدبي).');
+        return;
+      }
+
+      // Show loading
+      const btn = document.getElementById('btnSearch');
+      btn.disabled = true;
+      btn.innerHTML = '<div class="spinner"></div> جارٍ البحث...';
+      hideResults();
+      hideStatus();
+
+      try {
+        // Proxy through Cloudflare Function to ministry API
+        const params = new URLSearchParams();
+        if (subNumber) params.set('sub', subNumber);
+        if (studentName) params.set('name', studentName);
+        if (branch) params.set('branch', branch);
+        if (province) params.set('province', province);
+
+        const response = await fetch(`/api/results?${params.toString()}`);
+        const result = await response.json();
+
+        if (!result.success) {
+          showStatus('error', result.error || 'لم يتم العثور على نتيجة بهذه البيانات.');
+          return;
+        }
+
+        // Display the actual results from the ministry
+        displayResults(result.data);
+        showStatus('success', 'تم جلب النتيجة بنجاح من قاعدة بيانات وزارة التربية والتعليم.');
+
+      } catch (err) {
+        console.error('Search error:', err);
+        showStatus('error', 'حدث خطأ أثناء الاتصال بالخادم. يُرجى المحاولة لاحقاً أو زيارة الموقع الرسمي <a href="https://moed.gov.sy" target="_blank" style="color:inherit;text-decoration:underline">moed.gov.sy</a>');
+      } finally {
+        btn.disabled = false;
+        btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg> عرض النتيجة`;
+      }
+    }
+
+    // ============================================================
+    // Display results (called when API returns data)
+    // ============================================================
+    function displayResults(data) {
+      const section = document.getElementById('resultsSection');
+      const studentInfo = document.getElementById('studentInfo');
+      const gradesBody = document.getElementById('gradesBody');
+      const totalScore = document.getElementById('totalScore');
+      const resultTitle = document.getElementById('resultTitle');
+      const resultStatus = document.getElementById('resultStatus');
+      const resultStatusText = document.getElementById('resultStatusText');
+
+      // Student info
+      studentInfo.innerHTML = `
+        <div class="info-item"><span class="label">الاسم الثلاثي</span><span class="value">${data.name}</span></div>
+        <div class="info-item"><span class="label">رقم الاكتتاب</span><span class="value">${data.subNumber}</span></div>
+        <div class="info-item"><span class="label">الفرع</span><span class="value">${data.branch}</span></div>
+        <div class="info-item"><span class="label">المحافظة</span><span class="value">${data.province}</span></div>
+        <div class="info-item"><span class="label">المدرسة</span><span class="value">${data.school}</span></div>
+        <div class="info-item"><span class="label">التقدير</span><span class="value">${data.grade}</span></div>
+      `;
+
+      // Grades
+      gradesBody.innerHTML = data.subjects.map(s => `
+        <div class="grade-row">
+          <span class="subject">${s.name}</span>
+          <span class="grade" style="color: ${s.score >= s.max * 0.4 ? 'var(--primary)' : 'var(--accent)'}">${s.score}</span>
+          <span class="max">${s.max}</span>
+        </div>
+      `).join('');
+
+      // Total
+      totalScore.innerHTML = `${data.total} <span>/ ${data.maxTotal}</span>`;
+
+      // Status
+      resultTitle.textContent = `نتيجة الطالب/ة: ${data.name}`;
+      const passed = data.total >= data.maxTotal * 0.4;
+      resultStatus.className = `result-status ${passed ? 'pass' : 'fail'}`;
+      resultStatusText.textContent = passed ? 'ناجح' : 'راسب';
+
+      section.classList.add('show');
+      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // ============================================================
+    // Status helpers
+    // ============================================================
+    function showStatus(type, message) {
+      const banner = document.getElementById('statusBanner');
+      const text = document.getElementById('statusText');
+      const icon = document.getElementById('statusIcon');
+
+      banner.className = `status-banner show ${type}`;
+      text.innerHTML = message;
+
+      const icons = {
+        info: '<circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/>',
+        success: '<path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/>',
+        error: '<circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/>',
+        warning: '<path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/>'
+      };
+      icon.innerHTML = icons[type] || icons.info;
+    }
+
+    function hideStatus() {
+      document.getElementById('statusBanner').classList.remove('show');
+    }
+
+    function hideResults() {
+      document.getElementById('resultsSection').classList.remove('show');
+    }
+
+    function shareResult() {
+      const text = `نتائج الثانوية العامة 2026 🇸🇾\nاستعلم عن نتيجتك:\n${window.location.href}`;
+      if (navigator.share) {
+        navigator.share({ title: 'نتائج الثانوية العامة', text, url: window.location.href });
+      } else {
+        navigator.clipboard.writeText(text).then(() => alert('تم نسخ الرابط!'));
+      }
+    }
+
+    // Initialize
+    init();
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"92735ef3bb0c4ca898ce2dcbf904754f","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>
